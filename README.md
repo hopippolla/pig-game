@@ -14,5 +14,3 @@ Small Javascript game created to practice the language and train some programmin
 </p>
 
 
-# pig-game
-Practicing Javascript (and logic) on a small pig game.
